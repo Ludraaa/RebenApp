@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904314045732",
+    "project_id": "rebenappcloud",
+    "storage_bucket": "rebenappcloud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904314045732:android:f272918a1f9448c2401fb1",
+        "android_client_info": {
+          "package_name": "com.example.rebenapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-EiKEo-tWWJUvuisZ_F3KitRNqYFZ8HA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
